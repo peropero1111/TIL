@@ -1,3 +1,5 @@
+//코드 제공하여주신 twotwo 선배 감사합니다.
+
 #include <stdio.h>
 #include <string.h>
 #define MAX 100
